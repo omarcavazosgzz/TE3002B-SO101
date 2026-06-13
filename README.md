@@ -445,10 +445,16 @@ El modelo entrenado con 100 episodios logró ejecutar la tarea de forma satisfac
 
 ---
 
-## Integrantes del equipo
+## Integrantes del equipo y contribuciones
 
-- Fernando Proal Sifuentes
-- Alexandro Kurt Cardenas Pérez
-- Manuel Ferro Sánchez
-- Zacbe Ortega Obregón
-- Fabricio Banda Hernández
+| Integrante                 | Contribuciones principales                                                                    |
+| -------------------------- | --------------------------------------------------------------------------------------------- |
+| José Omar Cavazos Gonzalez | Compró materiales, realizó el setup físico del sistema y grabó 100 episodios para el dataset. |
+| Angel Dominguez            | Propuso la idea principal del proyecto e investigó el uso de LeRobot para el entrenamiento.   |
+| Pablo Aguilar              | Apoyó en la calibración del robot y grabó 50 episodios para el dataset.                       |
+| Sebastian Toro             | Imprimió las piezas 3D necesarias para el armado del robot SO-101.                            |
+| Fernando Proal             | Apoyó en el setup, calibración del sistema y grabó 200 episodios para el dataset.             |
+| Manuel Ferro               | Sin contribución específica reportada para esta versión del proyecto.                         |
+| Alejandro Kurt             | Apoyó en el setup del sistema y en la lluvia de ideas inicial del proyecto.                   |
+| Zacbe Ortega               | Apoyó en el segundo proceso de entrenamiento del modelo.                                      |
+| Fabricio Banda             | Grabó 100 episodios utilizados para el entrenamiento del modelo.                              |
